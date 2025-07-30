@@ -8,18 +8,18 @@ Each module is organized by functionality and includes positive and negative sce
 ## 📁 Sections
 
 - 🌐 [Web](./Web/) — test cases for the web application:
-  - 🔐 [Login Form](./Web/Login%20Form/) – authentication flows, input validation, edge case handling, session behavior, and token expiry  
-  - 👥 [User Roles](./Web/User%20Roles/) – admin/user permission controls, RBAC logic, and page-level access verification  
+  - 🔐 [Login Form](./Web/Login_Form/) – authentication flows, input validation, edge case handling, session behavior, and token expiry  
+  - 👥 [User Roles](./Web/User_Roles/) – admin/user permission controls, RBAC logic, and page-level access verification  
   - 🛡️ [Security](./Web/Security/) – SQL injection testing, XSS attack vectors, input sanitization, brute-force simulation  
-  - 🎨 [UI Elements](./Web/UI%20Elements/) – layout consistency across pages, element visibility, and placement validation  
+  - 🎨 [UI Elements](./Web/UI_Elements/) – layout consistency across pages, element visibility, and placement validation  
   - 🌐 [Compatibility](./Web/Compatibility/) – cross-browser rendering, screen resolution adaptability, and viewport behavior  
   - ♿ [Accessibility](./Web/Accessibility/) – WCAG compliance, ARIA roles, screen reader flow, and keyboard navigation  
   - ⚙️ [Performance](./Web/Performance/) – load and stress tests, caching behavior, and response time tracking  
   - 🌍 [Localization](./Web/Localization/) – language-specific formatting, translation validation, RTL layout handling, locale switching  
 
 - 📱 [Mobile](./Mobile/) — test cases for mobile apps:
-  - 🔐 [Login Form](./Mobile/Login%20Form/) – platform-aware login validation, form behavior, biometric fallback, session restore  
-  - 📱 [Device Adaptivity](./Mobile/Device%20Adaptivity/) – UI scalability across screen sizes, OS-specific quirks (iOS/Android)  
+  - 🔐 [Login Form](./Mobile/Login_Form/) – platform-aware login validation, form behavior, biometric fallback, session restore  
+  - 📱 [Device Adaptivity](./Mobile/Device_Adaptivity/) – UI scalability across screen sizes, OS-specific quirks (iOS/Android)  
   - 🛡️ [Security](./Mobile/Security/) – mobile vector injection testing, session token storage, platform-specific risks  
   - ♿ [Accessibility](./Mobile/Accessibility/) – TalkBack/VoiceOver screen reader support, gesture interaction, and navigation hierarchy  
   - ⚙️ [Performance](./Mobile/Performance/) – application load metrics, battery consumption impact, offline caching  
