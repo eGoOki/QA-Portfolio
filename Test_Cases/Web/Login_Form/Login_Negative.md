@@ -137,7 +137,7 @@ System responds with generic error to prevent info disclosure
 **Type:** Functional  
 **Priority:** Medium  
 **Status:** Draft  
-**Defects:** DEF-309  
+**Defects:** [DEF-309](../../../Bug_Reports/DEF-309-expired-password-login.md)  
 **Execution Status:** Failed  
 **Automation:** Automation Queue  
 **Assigned To:** QA Engineer  

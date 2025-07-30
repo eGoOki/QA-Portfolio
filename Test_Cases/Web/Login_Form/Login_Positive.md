@@ -77,7 +77,7 @@ User is successfully authenticated and navigated to dashboard; user data is visi
 **Type:** Integration  
 **Priority:** Medium  
 **Status:** Waiting Review  
-**Defects:** DEF-217  
+**Defects:** [DEF-217](../../../Bug_Reports/DEF-217-SSO-login-redirect.md)  
 **Execution Status:** Failed  
 **Automation:** Automation Queue  
 **Assigned To:** QA Engineer  
@@ -141,7 +141,7 @@ User is securely authenticated via link and redirected to dashboard
 **Type:** Integration / Security  
 **Priority:** Medium  
 **Status:** Needs Update  
-**Defects:** DEF-108  
+**Defects:** [DEF-108](../../../Bug_Reports/DEF-108-Mobile-app-logini-does-not-result-in-valid-session-token.md)  
 **Execution Status:** Failed  
 **Automation:** Cannot be Automated  
 **Assigned To:** QA Engineer  
