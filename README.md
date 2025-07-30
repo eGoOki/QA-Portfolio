@@ -1,8 +1,26 @@
 # 🕵️‍♂️ Ievgen Guk – Manual QA Engineer Portfolio
 
-Hi there! 👋 I'm **Ievgen Guk** *(pronounced like "Yevhen", also known as Eugene)* - a Lead/Senior Manual QA Engineer with 17+ years of hands-on experience in software testing, including mobile (iOS/Android/React Native), web, and desktop platforms.
+<!-- <p align="center">
+  <img src="https://img.shields.io/badge/QA--Portfolio-Manual--Testing-blue.svg" />
+  <img src="https://img.shields.io/badge/Experience-17+--years-green.svg" />
+  <img src="https://img.shields.io/badge/TechStack-Mobile%20%7C%20Web%20%7C%20API-yellow.svg" />
+  <img src="https://img.shields.io/badge/Location-Košice%2C%20Slovakia-lightgrey.svg" />
+</p>
+
+<p align="center">
+  🚀 <a href="#📁-repository-structure">Repository Overview</a> • 
+  💬 <a href="#👤-about-me">About Me</a> • 
+  🧰 <a href="#🧰-skills--tools">Skills</a> • 
+  🧪 <a href="#📁-explore-qa-artifacts">Explore Test Sections</a> • 
+  🎓 <a href="#🎓-selected-certifications">Certifications</a>
+</p>
+
+--- -->
+
+Hi there! 👋 I'm **Ievgen Guk** *(pronounced like "Yevhen", also known as Eugene)* - a Lead/Senior Manual QA Engineer with 17+ years of hands-on experience in software testing, including mobile (iOS/Android), web, and desktop platforms.
 
 This repository showcases sample materials that reflect my approach to testing, reporting, and QA strategy.  
+
 🔒 *All content is fictional or generalized to respect client confidentiality (NDAs).*
 
 ---
@@ -53,13 +71,13 @@ This repository showcases sample materials that reflect my approach to testing, 
 ```
 📂 QA-Portfolio/
 │
-├ 🧪 Test-Cases       # Sample functional test cases for mobile and web  
-├ 📋 Bug-Reports      # Structured issue reports in Markdown format  
-├ 🗂️ Test-Plans       # Lightweight strategy documents for QA cycles  
+├ 🧪 Test_Cases       # Sample functional test cases for mobile and web  
+├ 📋 Bug_Reports      # Structured issue reports in Markdown format  
+├ 🗂️ Test_Plans       # Lightweight strategy documents for QA cycles  
 ├ ✅ Checklists       # UI, accessibility, and localization guides  
-├ 🔌 API-Testing      # Postman collections and mock responses  
-├ 💾 SQL-Queries      # Sample SQL queries for validation and inspection  
-├ 📊 Test-Reports     # Final test execution summaries and result logs  
+├ 🔌 API_Testing      # Postman collections and mock responses  
+├ 💾 SQL_Queries      # Sample SQL queries for validation and inspection  
+├ 📊 Test_Reports     # Final test execution summaries and result logs  
 ├ 🧠 Mindmaps         # Visual diagrams for QA process planning
 ```
 
@@ -67,40 +85,16 @@ This repository showcases sample materials that reflect my approach to testing, 
 
 ### 📁 Explore QA Artifacts
 
-<table>
-  <tr>
-    <td>🧪 <a href="Test-Cases/">Test-Cases</a></td>
-    <td>Functional test cases with clear steps and expected outcomes</td>
-  </tr>
-  <tr>
-    <td>📋 <a href="Bug-Reports/">Bug-Reports</a></td>
-    <td>Issue reports with reproduction steps and observed behavior</td>
-  </tr>
-  <tr>
-    <td>🗂️ <a href="Test-Plans/">Test-Plans</a></td>
-    <td>Strategy documents outlining testing scope, goals, and approach</td>
-  </tr>
-  <tr>
-    <td>✅ <a href="Checklists/">Checklists</a></td>
-    <td>Validation guides for design, accessibility, and localization</td>
-  </tr>
-  <tr>
-    <td>🔌 <a href="API-Testing/">API-Testing</a></td>
-    <td>Postman samples, mock API responses, request validations</td>
-  </tr>
-  <tr>
-    <td>💾 <a href="SQL-Queries/">SQL-Queries</a></td>
-    <td>SQL queries for data validation, joins, and aggregations</td>
-  </tr>
-  <tr>
-    <td>📊 <a href="Test-Reports/">Test-Reports</a></td>
-    <td>Metrics and release-level execution summaries</td>
-  </tr>
-  <tr>
-    <td>🧠 <a href="Mindmaps/">Mindmaps</a></td>
-    <td>QA logic flows and planning diagrams</td>
-  </tr>
-</table>
+| 📦 Section       | 🔗 Link                            | 📝 Description                                                  |
+|------------------|------------------------------------|------------------------------------------------------------------|
+| 🧪 Test Cases     | [Test_Cases/](Test_Cases/)         | Functional test cases with clear steps and expected outcomes     |
+| 📋 Bug Reports    | [Bug_Reports/](Bug_Reports/)       | Issue reports with reproduction steps and observed behavior      |
+| 🗂️ Test Plans     | [Test_Plans/](Test_Plans/)         | Strategy documents outlining testing scope, goals, and approach  |
+| ✅ Checklists     | [Checklists/](Checklists/)         | Validation guides for design, accessibility, and localization    |
+| 🔌 API Testing    | [API_Testing/](API_Testing/)       | Postman samples, mock API responses, request validations         |
+| 💾 SQL Queries    | [SQL_Queries/](SQL_Queries/)       | SQL queries for data validation, joins, and aggregations         |
+| 📊 Test Reports   | [Test_Reports/](Test_Reports/)     | Metrics and release-level execution summaries                    |
+| 🧠 Mindmaps       | [Mindmaps/](Mindmaps/)             | QA logic flows and planning diagrams                             |
 
 > All materials are designed for educational and demonstrative purposes.
 
